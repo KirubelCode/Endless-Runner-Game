@@ -1,1 +1,1 @@
-Run the x86 file using eas68k
+Run the x68 file using eas68k
