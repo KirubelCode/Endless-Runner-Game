@@ -17,7 +17,7 @@ Sound integration
 
 How to Run
 Clone the repository
-git clone https://github.com/KirubelCode/x68-Endless-Runner.git
+git clone https://github.com/KirubelCode/Endless-Runner-Game/tree/main
 cd x68-Endless-Runner
 
 Use an x68 emulator or assembler to compile and run.
